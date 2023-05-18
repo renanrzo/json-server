@@ -1,12 +1,27 @@
 {
-  "users": [
+  "usuarios": [
     {
       "id": 1,
       "email": "teste@email.com",
-      "password": "123456"
+      "password": "teste@123"
     }
   ],
-  "informacoes": [],
+  "informacoes": [
+    {
+      "id": 1,
+      "foto": "https://github.com/renanrzo.png",
+      "nome": "André Renan de Menezes Silva",
+      "cargo": "Desenvolvedor júnior",
+      "resumo": "COMEIA ACADEMY"
+    }
+  ],
   "experiencias": [],
-  "portfolio": []
+  "portfolio": [
+    {
+      "link": "https://github.com/renanrzo/JS_objetos",
+      "image": "https://picsum.photos/seed/picsum/200/300",
+      "title": "JS Objetos",
+      "id": 1
+    }
+  ]
 }
